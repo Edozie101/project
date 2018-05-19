@@ -1,4 +1,4 @@
-# Real Estate Ionic
+# Real Estate Ionic app 
 This application lists properties for rental/sale, presents its features/amenities, contact information and details related to them. Categorizes listings into property types and includes various search filters enabling the easier finding of the property which the user is interested in.
 
 ## Dependecies, Run and Build
@@ -91,7 +91,7 @@ In case that the required Cordova plugins are not installed while installing Nod
 Install [Ionic View](http://view.ionic.io/) and preview the app on your mobile device using the following Ionic View ID: `7C75EFBD`
 
 ## Documentation
-* [Real Estate Ionic Quick Start Guide](https://docs.google.com/document/d/1r6xNL6TviD1X_lDKm1gd0H39_b3YD4GGbtwP6sl_XZw/edit?usp=sharing)
+* [Real Estate Ionic Quick Start Guide](https://docs.google.com/document/d/1-LyI2cKfLfFOufi-0SbRuajWgeG0ZFwaJbkJFby7GRo/edit?usp=sharing)
 
 ## Changelog
 ```
