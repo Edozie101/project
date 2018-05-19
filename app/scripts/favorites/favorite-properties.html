@@ -1,0 +1,32 @@
+<ion-view view-title="Favorites" cache-view="false" class="properties">
+	<ion-content ng-init="vm.search = ''" ng-class="{ 'vcenter': vm.properties.length === 0 }">
+		<ion-list ng-if="vm.properties.length > 0" can-swipe="true">
+			<ion-item class="search-box">
+				<input type="text" placeholder="Search" ng-model="vm.search" />
+			</ion-item>
+			<ion-item
+				class="item-thumbnail-left item-text-wrap"
+				ng-click="vm.navigate(property.guid)"
+				ng-repeat="property in vm.properties | filter: { title: vm.search }">
+				<img ng-src="{{property.thumbnail}}">
+				<h2>{{property.title}}</h2>
+				<h3>{{property.category}}</h3>
+				<p>{{property.description | limitTo: 140 }}{{property.description.length > 140 ? '...' : ''}}</p>
+				<span class="price">{{property.price | currency }}</span>
+
+				<ion-option-button class="button-assertive" ng-click="vm.deleteFromFavorites(property)">
+					Delete
+				</ion-option-button>
+			</ion-item>
+		</ion-list>
+
+		<div ng-if="vm.properties.length === 0">
+
+			<h1 class="text-center"><i class="icon ion-sad-outline"></i></h1>
+			<p class="text-center padding-top dark">
+				<span>There are no favorites in your list!</span>
+			</p>
+		</div>
+
+	</ion-content>
+</ion-view>

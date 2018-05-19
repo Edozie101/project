@@ -1,0 +1,965 @@
+{
+	"id": 1,
+	"jsonrpc": "2.0",
+	"total": 8,
+	"result":
+	[
+	  {
+	    "guid": "0e2c6dda-4699-457a-ae27-a43e9949e57b",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+			"code": "122281918",
+			"title": "313 89th St, Brooklyn, NY 11209",
+			"description": "Tucked away on a tree-line block around the corner from 3rd and 4th Avenue restaurant row, lies this fully detached two family home with a two car garage. This Bay Ridge home is a short distance to the R train on 86th St, home of big box retailers such as Victorias Secret, Century 21, TJ Maxx, Modells, Gap, and many more. Enjoy what the neighborhood has to offer with its many popular restaurants such as Ginos, Tanoreen, and Arirang Habachi Steakhouse.",
+			"buildIn": "1925-02-23T15:06:06+00:00",
+			"category": "Multi-family",
+			"surface": "2000",
+			"intention": "Sale",
+			"address": "313 89th St, Brooklyn, NY 11209",
+			"price": 1195000,
+			"pictures": [
+				"https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+				"https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+				"https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+			],
+			"mapdata": {
+				"annotations": [
+					{
+						"title": "Molestie et wisi.",
+						"latitude": 40.621600,
+						"longitude": -74.031269
+					}
+				]
+			},
+			"tags": [
+				"5 beds",
+				"3 full baths",
+				"multi-family"
+			],
+			"contact": {
+				"phoneNumber": "+398764123456",
+				"email": "sofia.atsalou@gmail.com",
+				"web": "http://www.morethanthemes.com"
+			},
+			"features": [
+				{
+					"title": "General",
+					"items": [
+						{
+							"caption": "Beds",
+							"value": 5,
+							"valueType": "number"
+						},
+						{
+							"caption": "Baths",
+							"value": 3,
+							"valueType": "number"
+						},
+						{
+							"caption": "Rooms",
+							"value": 9,
+							"valueType": "number"
+						}
+					]
+				},
+				{
+					"title": "Amenities",
+					"items": [
+						{
+							"caption": "Heating",
+							"value": 1,
+							"valueType": "boolean"
+						},
+						{
+							"caption": "Parking",
+							"value": 1,
+							"valueType": "boolean"
+						}
+					]
+				}
+			]
+	  },
+	  {
+	    "guid": "f8fbdedb-6a06-4bdc-92e1-b214802e6f00",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281910",
+      "title": "5805 5th Ave, Brooklyn, NY 11220",
+      "description": "Coldwell Banker Commercial Reliable Commercial Division is pleased to offer 5805 5th Avenue for sale. A mixed-use building consisting of 6 residential units and 2 commercial units. The Property is located in the Sunset Park section of Brooklyn, NY. For additional information please contact the exclusive broker. Coldwell Banker Reliable Commercial Division.",
+      "buildIn": "1931-02-23T15:06:06+00:00",
+      "category": "Multi-family",
+      "surface": "2667",
+      "intention": "Sale",
+      "address": "5805 5th Ave, Brooklyn, NY 11220",
+      "price": 3499000,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.640492,
+            "longitude": -74.014876
+          }
+        ]
+      },
+      "tags": [
+        "18 beds",
+        "8 full baths",
+        "multi-family"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 18,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 8,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 30,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 0,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "1d4aa3b2-c059-4fa7-a751-9bca73538tg5",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281866",
+      "title": "1576 82nd St, Brooklyn, NY 11228",
+      "description": "Dyker Area, 1 Family 20x100 lot, 20x30 house, move in condition, community driveway with private garage, finished basement, Great Location, A must see!! Present all offers.",
+      "buildIn": "1945-02-23T15:06:06+00:00",
+      "category": "Condo/townhome",
+      "surface": "1800",
+      "intention": "Sale",
+      "address": "1576 82nd St, Brooklyn, NY 11228",
+      "price": 899000,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.612521,
+            "longitude": -74.005394
+          }
+        ]
+      },
+      "tags": [
+        "3 beds",
+        "2 full baths",
+        "condo/townhome"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 3,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 6,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 1,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "ea8b6f60-dd5b-4270-8672-71d05f9d609f",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281834",
+      "title": "313 94th St, Brooklyn, NY 11209",
+      "description": "Huge manicured backyard on 130 foot lot! You must see this large charming semi-detached two family brick townhouse. This well maintained 20 x 50 ft. house features hardwood floors, recently repointed brick walls, and an amazing full size, 2400 square foot unfinished basement with 7 ft. ceilings. Live in the whole house or pay for your mortgage with the potential rental income of $2000 per month. The first floor apartment has two bedrooms. The second floor apartment has 3 bedrooms with a terrace.",
+      "buildIn": "1915-02-23T15:06:06+00:00",
+      "category": "Multi-family",
+      "surface": "2000",
+      "intention": "Sale",
+      "address": "313 94th St, Brooklyn, NY 11209",
+      "price": 1099000,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.618061,
+            "longitude": -74.032682
+          }
+        ]
+      },
+      "tags": [
+        "5 beds",
+        "2 full baths",
+        "multi-family"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 5,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 11,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 0,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "ca5a350d-4634-4965-8475-b0b96c0fbcf3",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "121939014",
+      "title": "1643 E 55th St, Brooklyn, NY 11234",
+      "description": "Beautiful, 1 Family, Semi-Detached House w/Attached Garage & Private Driveway. 3 Bedroom Duplex. First Floor: Kitchen, Dining Room, Living Room. 2nd Floor: 3 Bedrooms, Full Bath. Semi-Finished Basement w/Half Bath. All Stainless Steel Appliances. Large Backyard. Boiler 1 year, Water Tank 2 years. Yr.Taxes: $3,885. Zoning: R5.",
+      "buildIn": "1955-02-23T15:06:06+00:00",
+      "category": "Single family",
+      "surface": "1815",
+      "intention": "Sale",
+      "address": "1643 E 55th St, Brooklyn, NY 11234",
+      "price": 510000,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.616584,
+            "longitude": -73.921451
+          }
+        ]
+      },
+      "tags": [
+        "3 beds",
+        "1 full and 1 half baths",
+        "single family"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 3,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 1.5,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 6,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 0,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 0,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "e1cad53f-a19b-422f-b814-376184e05403",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281802",
+      "title": "572 Woolley Ave, Staten Island, NY 10314",
+      "description": "First time offered! This well maintained, solid larger cape is located in the desirable town of Westerleigh. Charming double door, proper foyer, hardwood flrs throughout, 4 large bedrooms (one can be dining room), new roof, siding, french drain, new windows, heating upgraded elec to plumbing.",
+      "buildIn": "1950-02-23T15:06:06+00:00",
+      "category": "Single family",
+      "surface": "1391",
+      "intention": "Sale",
+      "address": "572 Woolley Ave, Staten Island, NY 10314",
+      "price": 459900,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.609555,
+            "longitude": -74.141368
+          }
+        ]
+      },
+      "tags": [
+        "2 beds",
+        "2 full baths",
+        "single family"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 6,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 1,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "cc2bca7d-ced6-423f-9ac8-69c9801630dc",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281790",
+      "title": "3519 Avenue R, Brooklyn, NY 11234",
+      "description": "Marine Park! Mint Brick Duplex,This beautiful all brick one family duplex sits in Marine Park. Formal living room with working fireplace, full dining room with sliding doors that lead to deck with retractable awning, granite counter tops and stainless steel appliances in kitchen, 3 bedrooms, 1.5 bath. Hardwood and stone flooring,and full basement.",
+      "buildIn": "1945-02-23T15:06:06+00:00",
+      "category": "Condo/townhome",
+      "surface": "1224",
+      "intention": "Sale",
+      "address": "3519 Avenue R, Brooklyn, NY 11234",
+      "price": 640000,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.613011,
+            "longitude": -73.935379
+          }
+        ]
+      },
+      "tags": [
+        "3 beds",
+        "1 full and 2 half baths",
+        "condo/townhome"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 3,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 1,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 7,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 0,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "2fa0be45-fcbf-4173-aef2-6ed671f978e8",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122266466",
+      "title": "116-24 Grosvenor Ln Unit 4A, Kew Gardens, NY 11415",
+      "description": "Luxury Hi-Rise Condo In The Heart Of Kew Gardens. All Shopping Within Steps Of The Building. All Transportation Within Minutes Including All Subways, Lirr, And All Highways. Amazing Lobby With Doorman/Concierge. Valet Attended Parking Garage. Full Gym With T.V's. Roof Top Deck With Seating Accommodations, Laundry Room. One Block To Forest Park.",
+      "buildIn": "2005-02-23T15:06:06+00:00",
+      "category": "Condo/townhome",
+      "surface": "1092",
+      "intention": "Sale",
+      "address": "116-24 Grosvenor Ln Unit 4A, Kew Gardens, NY 11415",
+      "price": 495000,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.707647,
+            "longitude": -73.835250
+          }
+        ]
+      },
+      "tags": [
+        "2 beds",
+        "1 full bath",
+        "condo/townhome"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 1,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 5,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 0,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "26e30ef0-69d2-49ff-9473-d58f098ac99b",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281746",
+      "title": "10 Barclay St, New York, NY 10007",
+      "description": "The impressive new Barclay Tower in Tribeca is a beautiful 58-story apartment building. Brand-new luxury amenities include the fitness center with spa, yoga and 50 foot pool and 3 furnished lounges, media room and terrace.",
+      "buildIn": "2006-02-23T15:06:06+00:00",
+      "category": "Apartment",
+      "surface": "650 - 2000",
+      "intention": "Rent",
+      "address": "10 Barclay St, New York, NY 10007",
+      "price": 3895,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Barclay Tower",
+            "latitude": 40.712251,
+            "longitude": -74.009141
+          }
+        ]
+      },
+      "tags": [
+        "1 - 3 beds",
+        "1 - 2 baths",
+        "apartment"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": "1-3",
+              "valueType": "string"
+            },
+            {
+              "caption": "Baths",
+              "value": "2-3",
+              "valueType": "string"
+            },
+            {
+              "caption": "Rooms",
+              "value": "2-6",
+              "valueType": "string"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 0,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "849ddf3f-7819-48c4-8690-394e8d6df276",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "119914929",
+      "title": "34 Desbrosses St, New York, NY 10013",
+      "description": "Truffles is a full service doorman building on the waterfront in Manhattan's most charming neighborhood. A quick walk to restaurants, shopping, parks - including those on the waterfront - and subways (1, A, C, E). Truffles has a private club for entertaining or being social, a gym overlooking the water, a roof deck, courtyard, house staff services and 24 hour on-site parking.",
+      "buildIn": "2009-02-23T15:06:06+00:00",
+      "category": "Apartment",
+      "surface": "557+",
+      "intention": "Rent",
+      "address": "34 Desbrosses St, New York, NY 10013",
+      "price": 4195,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 40.723680,
+            "longitude": -74.010713
+          }
+        ]
+      },
+      "tags": [
+        "0 - 2 beds",
+        "1 bath",
+        "apartment"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": "0-2",
+              "valueType": "string"
+            },
+            {
+              "caption": "Baths",
+              "value": 1,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": "2-3",
+              "valueType": "string"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 1,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "709d0bd6-7d97-44d4-a896-46d948bfe3a4",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281734",
+      "title": "354 King St, Chappaqua, NY 10514",
+      "description": "Ideal location for this three bedroom colonial in Chappaqua village. Yes, you really can walk to the train and shops. Inviting front porch. Hardwood floors. Usable back yard. Access to the rear of the house from a private driveway located off Poillon Drive - with parking.",
+      "buildIn": "1981-02-23T15:06:06+00:00",
+      "category": "Single family",
+      "surface": "1420",
+      "intention": "Rent",
+      "address": "354 King St, Chappaqua, NY 10514",
+      "price": 3200,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 41.159867,
+            "longitude": -73.766186
+          }
+        ]
+      },
+      "tags": [
+        "3 beds",
+        "2 baths",
+        "single family"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 3,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 7,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 1,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "09b3d83d-dc9d-4662-9d40-34889eb85ed1",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281730",
+      "title": "59 Chestnut Ridge Rd, Bedford Corners, NY 10549",
+      "description": "Spectacularly restored Bedford Carriage House with long gated drive. Center Hall Entry Foyer, classically scaled rooms, wonderful ceiling height and beautiful detailing. Living Room with fireplace & French doors out to lovely terrace, country Kitchen, Family Room open to Lord & Burnham Conservatory, 1st floor Guest Suite, Office with bath. Fabulous Master Bedroom Suite with Sitting Room, fireplace & three additional Bedrooms. Additional Guest Suite with Bedroom, Living Room & full Bath over 3 Car Garage. Walk up Attic. Located on over four gorgeous estate acres with Pool & Pool House.",
+      "buildIn": "1973-02-23T15:06:06+00:00",
+      "category": "Single family",
+      "surface": "6400",
+      "intention": "Rent",
+      "address": "59 Chestnut Ridge Rd, Bedford Corners, NY 10549",
+      "price": 12500,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png",
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 41.192900,
+            "longitude": -73.692785
+          }
+        ]
+      },
+      "tags": [
+        "5 beds",
+        "7 baths",
+        "single family"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 5,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 7,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 15,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 0,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 1,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  },
+	  {
+	    "guid": "dca19958-c907-4a51-b354-d01e890716ee",
+			"thumbnail": "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder-thumb.png",
+      "code": "122281686",
+      "title": "9 Wolden Rd Apt 7, Ossining, NY 10562",
+      "description": "Beautiful Art Deco apartment with gorgeous hardwood floors and wood details and West, North and Southern exposures. Behind Ossining High School, tenants can walk to restaurants, stores and yet feel that they reside in a suburban, country setting. Two parking spaces come with the rental and the train station is 5 minutes away by car. Storage also comes with the unit.",
+      "buildIn": "1984-02-23T15:06:06+00:00",
+      "category": "Condo/Townhome",
+      "surface": "1450",
+      "intention": "Rent",
+      "address": "9 Wolden Rd Apt 7, Ossining, NY 10562",
+      "price": 2500,
+      "pictures": [
+        "https://skounis.s3.amazonaws.com/mobile-apps/realestate/_release/assets/placeholder.png"
+      ],
+      "mapdata": {
+        "annotations": [
+          {
+            "title": "Molestie et wisi.",
+            "latitude": 41.160152,
+            "longitude": -73.855873
+          }
+        ]
+      },
+      "tags": [
+        "2 beds",
+        "2 baths",
+        "condo/townhome"
+      ],
+      "contact": {
+        "phoneNumber": "+398764123456",
+        "email": "sofia.atsalou@gmail.com",
+        "web": "http://www.morethanthemes.com"
+      },
+      "features": [
+        {
+          "title": "General",
+          "items": [
+            {
+              "caption": "Beds",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Baths",
+              "value": 2,
+              "valueType": "number"
+            },
+            {
+              "caption": "Rooms",
+              "value": 7,
+              "valueType": "number"
+            }
+          ]
+        },
+        {
+          "title": "Amenities",
+          "items": [
+            {
+              "caption": "Heating",
+              "value": 1,
+              "valueType": "boolean"
+            },
+            {
+              "caption": "Parking",
+              "value": 0,
+              "valueType": "boolean"
+            }
+          ]
+        }
+      ]
+	  }
+	]
+
+}

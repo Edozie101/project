@@ -1,0 +1,35 @@
+<ion-view view-title="Contact us">
+	<ion-content id="contact-us-view">
+		<gmaps ng-if="!!vm.location"
+			center="vm.location.origin"
+			zoom="13"
+			markers="vm.location.markers">
+		</gmaps>
+
+		<div class="padding">
+			<h3>{{vm.property.title}}</h3>
+			<p>{{vm.property.description}}</p>
+			<h4>Address</h4>
+			<p>{{vm.property.address}}</p>
+		</div>
+
+		<div class="list card">
+			<a href="tel:{{vm.property.contact.phoneNumber}}" class="item item-icon-left">
+				<i class="icon ion-ios-telephone"></i>
+				Call us
+			</a>
+
+			<a class="item item-icon-left" ng-click="vm.sendEmail()">
+				<i class="icon ion-email"></i>
+				Email us
+			</a>
+
+			<a ng-click="vm.openWebsite()" class="item item-icon-left">
+				<i class="icon ion-earth"></i>
+				Visit our website
+			</a>
+
+		</div>
+
+	</ion-content>
+</ion-view>

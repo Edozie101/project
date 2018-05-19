@@ -1,0 +1,35 @@
+<ion-view class="properties">
+	<ion-nav-title>
+		Properties for {{vm.intention}}
+	</ion-nav-title>
+
+	<ion-nav-buttons side="right">
+		<button class="button button-clear icon ion-android-options" ng-click="vm.showFilter()"></button>
+	</ion-nav-buttons>
+
+	<ion-content ng-init="vm.search = ''">
+		<ion-scroll zooming="true" direction="x" scrollbar-x="false" class="categories-filter">
+			<span ng-repeat="category in vm.categories">
+				<button class="button button-light filter-button"
+					ng-click="vm.filterByCategory(category)"
+					ng-class="{'active-filter-button': category === vm.selectedCategory}">
+					{{category}}
+				</button>
+			</span>
+		</ion-scroll>
+		<div class="item search-box">
+			<input type="text" placeholder="Search" ng-model="vm.search"/>
+		</div>
+		<div class="item item-thumbnail-left item-text-wrap neo-list"
+			ng-click="vm.navigate(property.guid)"
+			ng-repeat="property in vm.properties | filter: { title: vm.search } | orderBy: vm.sortBy">
+			<img class="neo-image" ng-src="{{property.thumbnail}}">
+			<div class="price">{{property.price | currency }}</div>
+			<h2>{{property.title}}</h2>
+			<h3>{{property.category}}</h3>
+			<p>{{property.description | limitTo: 140 }}{{property.description.length > 140 ? '...' : ''}}</p>
+			<div class="distance"><em class="ion ion-ios-location"></em> {{property.distance}}</div>
+		</div>
+
+	</ion-content>
+</ion-view>

@@ -1,0 +1,59 @@
+<ion-view view-title="Property" cache-view="false">
+	<ion-nav-buttons side="right">
+		<button class="button button-clear icon ion-ios-star" ng-click="vm.showFavorites()"></button>
+	</ion-nav-buttons>
+
+	<ion-content>
+		<ion-slide-box>
+			<ion-slide ng-repeat="picture in vm.property.pictures">
+				<div class="box blue home-hello">
+					<img ng-src="{{picture}}"/>
+					<div class="item">
+						<div class="property-code">{{vm.property.code}}</div>
+						<h1 class="property-title">{{vm.property.title}}</h1>
+						<div class="property-tags">{{vm.property.category}}, {{vm.property.intention}}</div>
+						<div class="property-price">{{vm.property.price | currency}}</div>
+					</div>
+				</div>
+			</ion-slide>
+		</ion-slide-box>
+
+		<div class="list card">
+			<a class="item item-icon-left" ng-click="vm.showContactUs()">
+				<i class="icon ion-home"></i>
+				Contact us for {{vm.property.intention | lowercase}}
+			</a>
+
+			<a class="item item-icon-left" ng-click="vm.getDirections()" ng-if="vm.hasMapdata">
+				<i class="icon ion-navigate"></i>
+				<span>You are <span ng-if="!!vm.property.distance">{{vm.property.distance}}</span> away. Get directions</span>
+			</a>
+
+			<a class="item item-icon-left" ng-click="vm.toggleFavorites()">
+				<span ng-if="!vm.property.isInFavorites">
+					<i class="icon ion-ios-star-outline"></i>
+					<span>Add to favorites</span>
+				</span>
+				<span ng-if="vm.property.isInFavorites">
+					<i class="icon ion-ios-star balanced"></i>
+					<span>Remove from favorites</span>
+				</span>
+			</a>
+		</div>
+
+		<div class="padding-horizontal">
+			<div class="features-list" ng-repeat="featureGroup in vm.property.features">
+				<h4>{{featureGroup.title}}</h4>
+				<div class="list card">
+					<ion-item
+						ng-class="{ 'item-icon-right': feature.valueType == 'boolean' }"
+						ng-repeat="feature in featureGroup.items">
+						{{feature.caption}}
+						<span ng-if="feature.valueType != 'boolean'" class="item-note">{{feature.value}}</span>
+						<i ng-if="feature.valueType == 'boolean' && feature.value == 1" class="icon ion-checkmark"></i>
+					</ion-item>
+				</div>
+			</div>
+		</div>
+	</ion-content>
+</ion-view>

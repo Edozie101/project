@@ -1,0 +1,58 @@
+.item p {
+    color: #7b7b7b;
+}
+
+.card .item{
+	border: 1px solid #2e2e2e;
+}
+
+.card .item:first-child {
+  border-top: 1px solid #2e2e2e;
+	margin-top: 0;
+}
+
+.card .item:last-child {
+	border-bottom: 1px solid #2e2e2e;
+	margin-bottom: 0;
+}
+
+textarea {
+	background: #232323;
+}
+
+.item-input-inset .item-input-wrapper input{
+	color: #232323;
+}
+
+.item-input-inset .item-input-wrapper input::-webkit-input-placeholder {
+   color: #7b7b7b;
+}
+
+.item-input-inset .item-input-wrapper input:-moz-placeholder { /* Firefox 18- */
+   color: #7b7b7b;
+}
+
+.item-input-inset .item-input-wrapper input::-moz-placeholder {  /* Firefox 19+ */
+   color: #7b7b7b;
+}
+
+.item-input-inset .item-input-wrapper input:-ms-input-placeholder {
+   color: #7b7b7b;
+}
+
+
+.item {
+	color: rgba(256, 256, 256, 0.6);
+}
+
+.item-select select {
+	color: rgba(256, 256, 256, 0.6);
+}
+
+.popup-head {
+	border-bottom: 1px solid #2e2e2e;
+}
+
+.popup-body input{
+	background: #232323;
+}

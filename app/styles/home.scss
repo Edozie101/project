@@ -1,0 +1,33 @@
+/*
+ * Home
+ */
+.home-hello {
+	position: relative;
+}
+
+.home-hello img {
+	max-width: 100%;
+}
+
+.home img {
+	display: inherit;
+}
+
+.home-hello .item {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 0;
+	border: 0;
+//	background: rgba(255, 255, 255, 0.6);
+	padding-bottom: 40px;
+}
+
+.card.col.home h1 {
+	text-align: center;
+}
+
+.card.col.home h2 {
+	text-align: center;
+}
