@@ -91,7 +91,7 @@ In case that the required Cordova plugins are not installed while installing Nod
 Install [Ionic View](http://view.ionic.io/) and preview the app on your mobile device using the following Ionic View ID: `7C75EFBD`
 
 ## Documentation
-* [Real Estate Ionic Quick Start Guide](https://docs.google.com/document/d/1-LyI2cKfLfFOufi-0SbRuajWgeG0ZFwaJbkJFby7GRo/edit?usp=sharing)
+* [Real Estate Ionic Quick Start Guide](https://docs.google.com/document/d/1xMYV9g7stTDfqINbEXSIT00kavZNA4zjv9NKVvBOeh4/edit?usp=sharing)
 
 ## Changelog
 ```
